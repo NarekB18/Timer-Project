@@ -44,20 +44,6 @@ Insert time to count down (h:m:s) 0:0:10
 * 💤 Uses `time.sleep(1)` for accurate timing intervals
 * 🔢 Displays time in `hh:mm:ss` format
 
----
-
-## 🚀 How to Run
-
-1. Make sure you have **Python 3.x** installed on your system.
-2. Save the script as `countdown_timer.py`.
-3. Open a terminal and run:
-
-   ```bash
-   python countdown_timer.py
-   ```
-4. When prompted, enter the time in `hours:minutes:seconds` format.
-
----
 
 ## 📂 File Structure
 
