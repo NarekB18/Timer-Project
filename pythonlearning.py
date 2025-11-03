@@ -1,10 +1,9 @@
 import time
 def timer():
     hour, minute, second = map(int, input("Insert time to count down (h:m:s)").split(":"))
-    hours = list(range(0,24))
     minutes = list(range(0,60))
     seconds = list(range(0,60))
-    if hour in hours and minute in minutes and second in seconds:
+    if minute in minutes and second in seconds:
         for hou in range(hour, -1, -1):
             for minu in range(minute, -1, -1):
                 for sec in range(second, -1, -1):
