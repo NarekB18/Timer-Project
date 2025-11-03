@@ -1,4 +1,4 @@
-Here’s a polished and beginner-friendly `README.md` for your countdown timer program 👇
+
 
 ---
 
